@@ -1,0 +1,30 @@
+.list-group{
+    text-align: center;
+}
+
+#footer{
+    background-color: black;
+    color:white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align-last: center;
+    text-align: center;
+}
+.card-title{
+    color:white;
+    text-align: center;
+    font-size: 50px;   
+}
+.card-text{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+}
+.card bg-dark{
+    display: table-cell;
+    vertical-align: middle;   
+}
+
+.card-img{
+    opacity: 0.4;
+}
